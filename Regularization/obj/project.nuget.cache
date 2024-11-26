@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "g9fA02bxkPAtp6saHHAuL/PvVhz3LzjcVDvDgP1yAw2Z8/DREk/x45VYhVKq+5fYtjTprkHaK9cKdilMQYSing==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kasza Róbert\\Pictures\\DeepLearning_C#\\Regularization\\Regularization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kasza Róbert\\.nuget\\packages\\cntk.cpuonly\\2.7.0\\cntk.cpuonly.2.7.0.nupkg.sha512",
+    "C:\\Users\\Kasza Róbert\\.nuget\\packages\\cntk.deps.mkl\\2.7.0\\cntk.deps.mkl.2.7.0.nupkg.sha512",
+    "C:\\Users\\Kasza Róbert\\.nuget\\packages\\cntk.deps.opencv.zip\\2.7.0\\cntk.deps.opencv.zip.2.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
