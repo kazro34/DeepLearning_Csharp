@@ -1,0 +1,5 @@
+C:\Users\Kasza Róbert\Pictures\DeepLearning_C#\BatchTraining\obj\Debug\net8.0\BatchTraining.csproj.AssemblyReference.cache
+C:\Users\Kasza Róbert\Pictures\DeepLearning_C#\BatchTraining\obj\Debug\net8.0\BatchTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kasza Róbert\Pictures\DeepLearning_C#\BatchTraining\obj\Debug\net8.0\BatchTraining.AssemblyInfoInputs.cache
+C:\Users\Kasza Róbert\Pictures\DeepLearning_C#\BatchTraining\obj\Debug\net8.0\BatchTraining.AssemblyInfo.cs
+C:\Users\Kasza Róbert\Pictures\DeepLearning_C#\BatchTraining\obj\Debug\net8.0\BatchTraining.csproj.CoreCompileInputs.cache
